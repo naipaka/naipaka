@@ -4,7 +4,7 @@
 
 ### 📝 About
 - 💼 Lead Flutter Engineer
-- 🌱 5 + years** in mobile
+- 🌱 5 + years in mobile
 - ⚙️ CI/CD, Custom Lint, OSS contributor · Tech writer & speaker
 
 ### 🧰 Tech Stack
